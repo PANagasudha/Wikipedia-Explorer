@@ -1,2 +1,2 @@
-# Wikipedia-Explorer
+# PerCapita income Predictions
 Wikipedia Explorer
